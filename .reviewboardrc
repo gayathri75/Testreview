@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "http://127.0.0.1:8080/"
+REPOSITORY = "Test"
+REPOSITORY_TYPE = "git"
+BRANCH = "master"
+LAND_DEST_BRANCH = "master"
